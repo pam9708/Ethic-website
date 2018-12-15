@@ -1,0 +1,168 @@
+html,body {
+    height:100%;
+    width:100%;
+}
+
+#photo-top-servicii {
+    background-image: url("../images/backs.png");
+    height:100%;
+    margin:0;
+    padding:0;
+    max-width:100%;
+    width:100%;
+    background-repeat: no-repeat;
+}
+
+#container-top-servicii {
+    background-color : #4C374B;
+    height:100%;
+    margin:1% 0 0 0;
+    opacity:0.9;
+    width:100%;
+}
+
+.h2-serv {
+    color :#D2DDBB;
+}
+
+.about-us {
+    text-align:center;
+    margin:1.5% 40%;
+    font-family:'Caudex';
+    font-size:0.9em;
+    color:white;
+}
+
+.serv-footer {
+    background-color:#4C374B;
+    height:130px;
+}
+
+.bottomt {
+    color:white;
+}
+
+.address-footer {
+    color:white;
+    display:inline-block;
+}
+
+span.text-footer {
+    display:inline-block;
+    color:white;
+    height:50px;
+    margin-top:6%;
+}
+
+#contact {
+    color:white;
+}
+
+footer {
+    text-align: left;
+}
+
+.flogo {
+    margin-top:5%;
+    margin-bottom:10%;
+    margin-left:5%;
+}
+
+.inlogo {
+    margin-top:5%;
+    margin-left:2%;
+    margin-bottom:10%;
+}
+
+u {
+    margin-top:10%;
+}
+
+.spacerl {
+    margin-bottom:5%;
+    margin-left:25%;  
+    margin-right:3%;
+}
+
+.spacerr {
+    margin-bottom:5%;
+    margin-left:3%;
+}
+
+.colserv1 {
+    margin-left:10%;
+    margin-top:3%;
+}
+
+h6 > strong {
+    color:#8E88A3;
+}
+
+.activeh6 {
+    color:black;
+}
+
+.hr-serv {
+    width:30%;
+    margin-left:0;
+}
+
+.text-serv {
+    font-family:"Open Sans";
+    font-size:0.7em;
+    color:#8E88A3;
+    width:37%;
+}
+
+.more {
+    font-family:"Open Sans";
+    font-size:0.7em;
+    color:#8E88A3;
+}
+
+.bigacc {
+    margin-top:50%;
+}
+
+.colserv3 {
+    width:56.66%;
+}
+
+.stamp{
+    margin-top:5%;
+}
+
+.activesection {
+    color:black;
+    font-size:1.2em;
+}
+
+.hr-serv2 {
+    width:15%;
+}
+
+.text-serv-right {
+    font-family:"Open Sans";
+    font-size:0.8em;
+    color:#8E88A3;
+    margin-top:5%;
+}
+
+.bottomEthc {
+    margin-top:4%;
+    margin-left:42%;
+}
+
+.descriptionbotc {
+    font-size:0.6em;
+    margin-left:40%;
+    color:#AEABDB;
+    text-align: left;
+    color:white;
+}
+
+.bottomtc {
+    text-align: left;
+    margin-left:38%;
+    color:white;
+}
